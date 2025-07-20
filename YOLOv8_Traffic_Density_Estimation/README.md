@@ -1,5 +1,5 @@
 # 🚗 Real-Time Traffic Density Estimation with YOLOv8
-![Traffic Density Estimation]
+[Traffic Density Estimation]
 
 ## 🔍 Overview
 This project harnesses the power of YOLOv8's real-time detection capabilities to tackle Traffic Density Estimation, a crucial aspect of urban and traffic management systems. The primary objective is to accurately count vehicles within designated areas in video frames to evaluate traffic flow. The insights garnered from this data are instrumental in pinpointing peak traffic times, identifying bottlenecks, and aiding urban planning. We have crafted an extensive toolkit that provides in-depth analysis of traffic patterns, thereby augmenting traffic control and city planning endeavors.
